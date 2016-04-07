@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackTracking.Tests", "BackTracking.Tests\BackTracking.Tests.csproj", "{8906EB7B-AF7D-4933-8987-85FB82ED0BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackTracking.Console", "BackTracking.Console\BackTracking.Console.csproj", "{DCFE0B5C-DC01-487D-8F8F-CA3ADA04239B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackTracking.Logic", "BackTracking.Logic\BackTracking.Logic.csproj", "{4D621E8F-03CC-4209-B839-2932CD287695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D621E8F-03CC-4209-B839-2932CD287695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D621E8F-03CC-4209-B839-2932CD287695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D621E8F-03CC-4209-B839-2932CD287695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D621E8F-03CC-4209-B839-2932CD287695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8906EB7B-AF7D-4933-8987-85FB82ED0BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8906EB7B-AF7D-4933-8987-85FB82ED0BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8906EB7B-AF7D-4933-8987-85FB82ED0BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8906EB7B-AF7D-4933-8987-85FB82ED0BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFE0B5C-DC01-487D-8F8F-CA3ADA04239B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFE0B5C-DC01-487D-8F8F-CA3ADA04239B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFE0B5C-DC01-487D-8F8F-CA3ADA04239B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFE0B5C-DC01-487D-8F8F-CA3ADA04239B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
